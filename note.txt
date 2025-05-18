@@ -1,0 +1,19 @@
+HTMl - content
+meaning -
+Hypertext Markup Language
+
+How it works
+why html
+	document - paper
+	doc - online - browser - html - info/data - form -
+
+html project
+	project folder
+	file
+		index.html file- .html - home -> index
+		css -
+		js
+		images
+
+template
+	<!doctype html>
